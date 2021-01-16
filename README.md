@@ -1,8 +1,19 @@
-# Getting Started with Create React App
+# r3f-template
+
+If you are just starting off with react-three-fiber then this template is for you. I have done a basic setup and a few usefull packages along with it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installed Packages
+
+- [`@react-three/drei`](https://github.com/react-spring/drei) &ndash; useful helpers for react-three-fiber
+- [`zustand`](https://github.com/react-spring/zustand) &ndash; state management
+- [`react-use-gesture`](https://github.com/react-spring/react-use-gesture) &ndash; mouse/touch gestures
+- [`aphrodite`](https://github.com/Khan/aphrodite) &ndash; Support for colocating your styles with your JavaScript component.
+- [`r3f-perf`](https://github.com/RenaudRohlinger/r3f-perf) &ndash; Easily monitor the performances of your React-Three-Fiber application
+- [`react-three-gui`](https://github.com/ueno-llc/react-three-gui) &ndash; GUI/debug tools
+
+## Available NPM Scripts
 
 In the project directory, you can run:
 
