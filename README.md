@@ -4,6 +4,21 @@ If you are just starting off with react-three-fiber then this template is for yo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Using this Template
+
+make sure you run `npm install` after cloning this repostiory.
+
+There is a basic example on the repository as well. It is the same example as seen on the react-three-fiber repository page.
+
+More examples are coming soon !
+
+
+## Read more
+
+- Learn more about threejs - [https://threejs.org/](https://threejs.org/)
+- Learn more about react - [https://reactjs.org/](https://reactjs.org/)
+- earn more about react-three-fiber - [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+
 ## Installed Packages
 
 - [`@react-three/drei`](https://github.com/react-spring/drei) &ndash; useful helpers for react-three-fiber
