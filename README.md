@@ -17,7 +17,7 @@ More examples are coming soon !
 
 - Learn more about threejs - [https://threejs.org/](https://threejs.org/)
 - Learn more about react - [https://reactjs.org/](https://reactjs.org/)
-- earn more about react-three-fiber - [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+- Learn more about react-three-fiber - [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 
 ## Installed Packages
 
