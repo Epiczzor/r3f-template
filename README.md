@@ -30,7 +30,7 @@ More examples are coming soon !
 
 ## Some of my projects
 
-- [Jacob's Creek Wine Guide](https://experiencejacobscreek.com/test)
+- [Jacob's Creek Wine Guide](https://experiencejacobscreek.com/test) - Made by the Team for Jacob's Creek India
 - [Car Configurator](https://webxr.autovrse.in/3d-automotive-configurator) - becoming open source soon !
 
 ## Available NPM Scripts
