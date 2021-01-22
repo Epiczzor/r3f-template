@@ -30,7 +30,7 @@ More examples are coming soon !
 
 ## Showoff
 
-- [Jacob's Creek Wine Guide](https://experiencejacobscreek.com/test) - Made by the Team for Jacob's Creek India
+- [Jacob's Creek Wine Guide](https://experiencejacobscreek.com/test) - Made by the [AutoVRse](https://autovrse.in) Team for Jacob's Creek India
 - [Car Configurator](https://webxr.autovrse.in/3d-automotive-configurator) - becoming open source soon !
 
 ## Available NPM Scripts
