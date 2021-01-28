@@ -4,6 +4,11 @@ If you are just starting off with react-three-fiber then this template is for yo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+| Packages        | Versions           |
+| ------------- |:-------------:|
+| three      | ^0.124.0 |
+| react-three-fiber     | ^5.3.12      |
+
 ## Using this Template
 
 make sure you run `npm install` after cloning this repostiory.
