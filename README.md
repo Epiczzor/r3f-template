@@ -6,8 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 | Packages        | Versions           |
 | ------------- |:-------------:|
-| three      | ^0.124.0 |
+| three      | ^0.126.0 |
 | react-three-fiber     | ^5.3.12      |
+| @react-three/drei     | ^3.11.2      |
 
 ## Using this Template
 
