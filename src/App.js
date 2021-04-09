@@ -1,8 +1,7 @@
 import './App.css';
-import { Canvas } from 'react-three-fiber';
-import { Perf } from 'r3f-perf';
 import Box from './components/Box';
-import { OrbitControls } from '@react-three/drei';
+import { OrbitControls, Stats } from '@react-three/drei';
+import { Canvas } from '@react-three/fiber';
 
 function App() {
 
@@ -15,7 +14,7 @@ function App() {
       <OrbitControls />
       <Box position={[-1.2, 0, 0]} />
       <Box position={[1.2, 0, 0]} />
-      <Perf />
+      <Stats />
     </Canvas>
     </>
   );

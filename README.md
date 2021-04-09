@@ -6,9 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 | Packages        | Versions           |
 | ------------- |:-------------:|
-| three      | ^0.126.0 |
-| react-three-fiber     | ^5.3.12      |
-| @react-three/drei     | ^3.11.2      |
+| three      | ^0.127.0 |
+| @react-three/fiber     | ^6.0.10     |
+| @react-three/drei     | ^4.1.2     |
+| @react-spring/three     | ^9.1.0    |
 
 ## Using this Template
 
@@ -31,7 +32,7 @@ More examples are coming soon !
 - [`zustand`](https://github.com/react-spring/zustand) &ndash; state management
 - [`react-use-gesture`](https://github.com/react-spring/react-use-gesture) &ndash; mouse/touch gestures
 - [`aphrodite`](https://github.com/Khan/aphrodite) &ndash; Support for colocating your styles with your JavaScript component.
-- [`r3f-perf`](https://github.com/RenaudRohlinger/r3f-perf) &ndash; Easily monitor the performances of your React-Three-Fiber application
+~~-  [`r3f-perf`](https://github.com/RenaudRohlinger/r3f-perf) &ndash; Easily monitor the performances of your React-Three-Fiber application~~ was causing frame drops use <Stats /> from 'drei' instead
 - [`react-three-gui`](https://github.com/ueno-llc/react-three-gui) &ndash; GUI/debug tools
 
 ## Showoff
