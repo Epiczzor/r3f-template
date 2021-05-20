@@ -6,10 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 | Packages        | Versions           |
 | ------------- |:-------------:|
-| three      | ^0.127.0 |
-| @react-three/fiber     | ^6.0.10     |
-| @react-three/drei     | ^4.1.2     |
-| @react-spring/three     | ^9.1.0    |
+| three      | ^0.128.0 |
+| @react-three/fiber     | ^6.1.2     |
+| @react-three/drei     | ^5.1.2     |
+| @react-spring/three     | ^9.1.2    |
+| zustand     | ^3.5.1    |
 
 ## Using this Template
 
